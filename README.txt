@@ -1,1 +1,1 @@
-This is a read me file
+This is a read me file. The repository contains Java codes from my 9th Standard Class
